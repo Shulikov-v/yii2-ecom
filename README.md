@@ -1,5 +1,8 @@
 E-commerce extension for Yii2
 =========
+
+**Warning: This package is not maintained anymore.**
+
 Provides support for basic e-commerce operations as a wrapper for [opus-online/yii2-payment](https://github.com/opus-online/yii2-payment). 
 For usage examples see [opus-online/yii2-app-ecom](https://github.com/opus-online/yii2-app-ecom) - a sample application using this extension. This guide assumes that you are familiar with implementations of Estonian bank payments (see [pangalink.net](http://pangalink.net))
 
